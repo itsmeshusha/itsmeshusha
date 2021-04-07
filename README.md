@@ -2,13 +2,8 @@
 ## I'm frontend developer from Moscow. I have experience in creating Landing Pages and SPA.
 ## I really like to solve katas on [codewars](https://www.codewars.com/users/itsmeshusha)
 ## My aim is to become a creative developer to have both the design perspective of interfaces and the coding skills. And also in the future I want to try myself as a fullstack developer. 
-
-
-<!--
-**itsmeshusha/itsmeshusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 💼 [Portfolio](https://itsmeshusha.github.io/Portfolio/)
 
--->
 
 ### Main Skills
 ![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
